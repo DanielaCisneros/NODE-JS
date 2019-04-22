@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "agenda": "^2.0.2",
+    "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
+    "express": "^4.15.2",
+    "node-cron": "^2.0.3",
+    "sendgrid-webhook": "0.0.4",
+    "socket.io": "^2.2.0",
+    "ws": "^6.2.1"
+  }
+}

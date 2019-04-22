@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "main": "server.js",
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Notes"
+  ],
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20",
+    "multer": "^1.4.1",
+    "sendgrid-webhook": "0.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "version": ""
+}
